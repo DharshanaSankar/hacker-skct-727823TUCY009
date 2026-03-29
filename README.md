@@ -42,7 +42,7 @@ Cross-Site Scripting (XSS) is a common web security vulnerability that allows at
 ## 🛠️ Setup Instructions
 
 1. Clone the repository:
-   git clone https://github.com/your-username/hacker-skct-727823TUCY009
+   git clone https://github.com/DharshanaSankar/hacker-skct-727823TUCY009
 
 2. Navigate to project folder:
    cd SKCT_727823TUCY009_XSS_Payload_Generator/code
